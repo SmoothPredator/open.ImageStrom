@@ -1,3 +1,3 @@
 # open.ImageStrom
 
-**Install all dependecies**\n`npm i`
+**Install all dependecies** `npm i`
