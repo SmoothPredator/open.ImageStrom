@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "discord-akairo": "^8.1.0",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "xml-js": "^1.6.11"
+  },
+  "name": "ImageStorm",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmoothPredator/ImageStorm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmoothPredator/ImageStorm/issues"
+  },
+  "homepage": "https://github.com/SmoothPredator/ImageStorm#readme",
+  "description": ""
+}
