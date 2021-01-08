@@ -1,5 +1,4 @@
-# Discord Bot
-
+# Image Discord Bot
 
 **MD WILL BE LATER**
 
